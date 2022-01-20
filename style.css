@@ -1,0 +1,29 @@
+.container{
+    font: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(250, 250, 250);
+    background-color: rgb(255, 0, 34);
+    margin-left: 60px;
+    margin-right: 60px;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+#inputfield{
+    width: 50%;
+    top: 100%;
+    height: 50%;
+    border: 1px solid blue;
+    background-color: rgb(110, 204, 17);
+    font-size: 26px;
+}
+h1{
+    background-color: crimson;
+    border: darkgray;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: inherit;
+
+}
